@@ -5,10 +5,17 @@
   
 # <img  width="650" src="https://github.com/Rob3rt2/Rob3rt2/assets/127865166/e539eb91-2fd3-4e26-8f1b-f7789a7602eb">
 </div>
+
 <div align="center">
 <a href ="https://github.com/Rob3rt2">
   <img height="180em"  src ="https://github-readme-stats.vercel.app/api?username=Rob3rt2&show_icons=true&theme=merko">
   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Rob3rt2&layout=donut&theme=merko">
+</div>
+<br>
+<div align="center">
+  <a href="https://www.instagram.com/robert._css/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="robertcaiom@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  <a href="https://www.linkedin.com/in/robert-caio-gomes-mota-885bb9280//" target="_blanck"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 </div>
   
 # <img height ="50" width="50" src = "https://github.com/Rob3rt2/Rob3rt2/assets/127865166/df24df33-0581-4f35-adf0-a2742e4452b9"> Mais sobre mim
