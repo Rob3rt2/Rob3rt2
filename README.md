@@ -33,7 +33,7 @@
 # <img height="40" width="40" src = "https://github.com/Rob3rt2/Rob3rt2/assets/127865166/a0410cd8-d2af-4bbe-8810-931c3a05a9e6"> Trabalhos
 
 ### <img height="20" width="40" src = "https://github.com/Rob3rt2/Rob3rt2/assets/127865166/605797ae-0d1f-4999-b638-01ae963f6aa7"><a href="https://github.com/YosagiGames"> Trabalho de Conclusão de Curso, pela ETEC Professor Basilides de Godoy </a>
-### <img height="20" width="40" src = "https://github.com/Rob3rt2/Rob3rt2/assets/127865166/605797ae-0d1f-4999-b638-01ae963f6aa7"><a href="https://github.com/LehLapa/Projeto470SP"> Projeto Comemoração 470 Anos de SP, pela ETEC Professor Basilides de Godoy </a> <br>
+
 ### <img height="20" width="40" src = "https://github.com/Rob3rt2/Rob3rt2/assets/127865166/605797ae-0d1f-4999-b638-01ae963f6aa7"><a href="https://github.com/Rob3rt2/UnityColisores"> jogo de aprendizado: Liminal Maze
 <br>
 
